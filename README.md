@@ -4,4 +4,4 @@ Day 12 of my machine learning journey.[It was just 2 lines when i clicked "Add a
 
 ## git and github image
 
-![image](https://user-images.githubusercontent.com/52717744/150771238-44186152-7ca8-45c3-9aa9-3359a5f42103.png)
+![git and github](https://user-images.githubusercontent.com/52717744/150772292-173778b4-1d9e-4fbf-8e60-17d7eb990504.png)
